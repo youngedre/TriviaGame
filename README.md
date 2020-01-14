@@ -6,3 +6,5 @@ User will be asked a number of questions, entering what they believe to be the c
 * HTML5
 * JQuery
 * CSS3
+
+try out here:  https://youngedre.github.io/TriviaGame/
